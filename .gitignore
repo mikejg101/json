@@ -1,0 +1,10 @@
+# CMake
+cmake-build-*/
+
+# IDE
+.idea/*
+
+# Build
+build/*
+
+changes.diff
